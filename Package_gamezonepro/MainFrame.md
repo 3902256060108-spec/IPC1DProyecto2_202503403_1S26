@@ -1,4 +1,4 @@
-´´´java
+```java
 package gamezonepro;
 import gamezonepro.controllers.AlbumController;
 import gamezonepro.controllers.RecompensasController;
@@ -69,7 +69,7 @@ public class MainFrame extends javax.swing.JFrame {
             }
         }
     }
-    }
+}
 
     card.show(contenedor, nombre);
 }
