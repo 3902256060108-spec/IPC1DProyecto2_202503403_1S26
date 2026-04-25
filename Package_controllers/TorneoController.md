@@ -16,7 +16,7 @@ public class TorneoController {
         torneos = ArchivoUtil.cargarTorneos();
         cola = new Cola();
 
-        // 🔥 CARGAR HISTORIAL
+        // cargar historial
         historialTickets = ArchivoUtil.cargarTickets();
     }
 
