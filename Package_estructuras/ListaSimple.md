@@ -1,3 +1,4 @@
+```java
 package gamezonepro.estructuras;
 
 public class ListaSimple {
