@@ -1,2 +1,0 @@
-# IPC1DProyecto2_202503403_1S26
-GameZone Pro
