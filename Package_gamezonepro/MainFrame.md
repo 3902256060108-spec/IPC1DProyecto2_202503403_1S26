@@ -70,9 +70,7 @@ public class MainFrame extends javax.swing.JFrame {
             }
         }
     }
+    }
 
     card.show(contenedor, nombre);
-}
-
-
 }
