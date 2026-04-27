@@ -1,0 +1,5 @@
+Juan|1200
+Maria|800
+Pedro|3500
+Luis|200
+Ana|7000

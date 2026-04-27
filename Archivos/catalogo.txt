@@ -1,0 +1,3 @@
+J001|FIFA 23|Deportes|350|PlayStation|10|Juego de futbol
+J002|Zelda|Aventura|500|Nintendo|5|Juego de aventura
+J003|COD|Accion|450|PC|8|Shooter

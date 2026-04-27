@@ -1,0 +1,3 @@
+T01|Torneo FIFA|FIFA|2026-06-01|18:00|50|5
+T02|Torneo COD|Call of Duty|2026-06-02|20:00|60|5
+T03|Torneo Smash|Smash Bros|2026-06-03|16:00|40|5
