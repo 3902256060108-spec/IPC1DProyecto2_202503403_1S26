@@ -1,4 +1,3 @@
-```java
 package gamezonepro;
 import gamezonepro.controllers.AlbumController;
 import gamezonepro.controllers.RecompensasController;
