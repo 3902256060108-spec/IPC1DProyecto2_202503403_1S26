@@ -1,4 +1,3 @@
-```java
 package gamezonepro.estructuras;
 
 public class Cola {
