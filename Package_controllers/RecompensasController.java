@@ -1,4 +1,3 @@
-```java
 package gamezonepro.controllers;
 
 import gamezonepro.estructuras.ListaSimple;
