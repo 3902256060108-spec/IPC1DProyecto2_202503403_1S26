@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Yesse/OneDrive/Documentos/NetBeansProjects/GameZonePro/src/gamezonepro/GameZonePro.java</file>
+            <file>file:/C:/Users/Yesse/OneDrive/Documentos/NetBeansProjects/GameZonePro/src/gamezonepro/MainFrame.java</file>
+            <file>file:/C:/Users/Yesse/OneDrive/Documentos/NetBeansProjects/GameZonePro/src/gamezonepro/gui/panels/TiendaPanel.java</file>
+            <file>file:/C:/Users/Yesse/OneDrive/Documentos/NetBeansProjects/GameZonePro/src/gamezonepro/gui/panels/TorneosPanel.java</file>
+            <file>file:/C:/Users/Yesse/OneDrive/Documentos/NetBeansProjects/GameZonePro/src/gamezonepro/gui/panels/ReportesPanel.java</file>
+            <file>file:/C:/Users/Yesse/OneDrive/Documentos/NetBeansProjects/GameZonePro/src/gamezonepro/gui/panels/AlbumPanel.java</file>
+            <file>file:/C:/Users/Yesse/OneDrive/Documentos/NetBeansProjects/GameZonePro/src/gamezonepro/gui/panels/RecompensasPanel.java</file>
+            <file>file:/C:/Users/Yesse/OneDrive/Documentos/NetBeansProjects/GameZonePro/src/gamezonepro/gui/panels/EstudiantePanel.java</file>
+            <file>file:/C:/Users/Yesse/OneDrive/Documentos/NetBeansProjects/GameZonePro/src/gamezonepro/estructuras/NodoSimple.java</file>
+            <file>file:/C:/Users/Yesse/OneDrive/Documentos/NetBeansProjects/GameZonePro/src/gamezonepro/estructuras/ListaSimple.java</file>
+            <file>file:/C:/Users/Yesse/OneDrive/Documentos/NetBeansProjects/GameZonePro/src/gamezonepro/model/Juego.java</file>
+            <file>file:/C:/Users/Yesse/OneDrive/Documentos/NetBeansProjects/GameZonePro/src/gamezonepro/gui/panels/MenuPanel.java</file>
+            <file>file:/C:/Users/Yesse/OneDrive/Documentos/NetBeansProjects/GameZonePro/src/gamezonepro/util/ArchivoUtil.java</file>
+            <file>file:/C:/Users/Yesse/OneDrive/Documentos/NetBeansProjects/GameZonePro/src/gamezonepro/estructuras/NodoMatriz.java</file>
+            <file>file:/C:/Users/Yesse/OneDrive/Documentos/NetBeansProjects/GameZonePro/src/gamezonepro/estructuras/NodoCola.java</file>
+            <file>file:/C:/Users/Yesse/OneDrive/Documentos/NetBeansProjects/GameZonePro/src/gamezonepro/estructuras/Cola.java</file>
+            <file>file:/C:/Users/Yesse/OneDrive/Documentos/NetBeansProjects/GameZonePro/src/gamezonepro/model/Torneo.java</file>
+            <file>file:/C:/Users/Yesse/OneDrive/Documentos/NetBeansProjects/GameZonePro/src/gamezonepro/controllers/TorneoController.java</file>
+            <file>file:/C:/Users/Yesse/OneDrive/Documentos/NetBeansProjects/GameZonePro/src/gamezonepro/threads/Taquilla.java</file>
+            <file>file:/C:/Users/Yesse/OneDrive/Documentos/NetBeansProjects/GameZonePro/src/gamezonepro/model/Logro.java</file>
+            <file>file:/C:/Users/Yesse/OneDrive/Documentos/NetBeansProjects/GameZonePro/src/gamezonepro/model/Usuario.java</file>
+            <file>file:/C:/Users/Yesse/OneDrive/Documentos/NetBeansProjects/GameZonePro/src/gamezonepro/controllers/RecompensasController.java</file>
+            <file>file:/C:/Users/Yesse/OneDrive/Documentos/NetBeansProjects/GameZonePro/src/gamezonepro/gui/panels/CarritoPanel.java</file>
+            <file>file:/C:/Users/Yesse/OneDrive/Documentos/NetBeansProjects/GameZonePro/src/gamezonepro/controllers/AlbumController.java</file>
+            <file>file:/C:/Users/Yesse/OneDrive/Documentos/NetBeansProjects/GameZonePro/src/gamezonepro/controllers/ReporteController.java</file>
+            <file>file:/C:/Users/Yesse/OneDrive/Documentos/NetBeansProjects/GameZonePro/src/gamezonepro/controllers/TiendaController.java</file>
+            <file>file:/C:/Users/Yesse/OneDrive/Documentos/NetBeansProjects/GameZonePro/src/gamezonepro/model/Carta.java</file>
+            <file>file:/C:/Users/Yesse/OneDrive/Documentos/NetBeansProjects/GameZonePro/src/gamezonepro/model/Ticket.java</file>
+        </group>
+    </open-files>
+</project-private>
