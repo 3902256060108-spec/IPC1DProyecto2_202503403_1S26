@@ -1,5 +1,3 @@
-```java
-
 package gamezonepro.gui.panels;
 
 import gamezonepro.controllers.TiendaController;
