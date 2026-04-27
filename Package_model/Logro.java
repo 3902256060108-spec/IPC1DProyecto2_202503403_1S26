@@ -1,4 +1,3 @@
-```java
 package gamezonepro.model;
 
 public class Logro {
