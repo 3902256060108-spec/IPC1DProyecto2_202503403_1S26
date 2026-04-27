@@ -1,4 +1,3 @@
-```java
 package gamezonepro.gui.panels;
 
 import javax.swing.*;
