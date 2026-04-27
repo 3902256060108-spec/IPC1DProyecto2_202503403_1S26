@@ -1,4 +1,3 @@
-```java
 package gamezonepro.threads;
 
 import gamezonepro.estructuras.Cola;
