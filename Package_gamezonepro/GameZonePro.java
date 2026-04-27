@@ -1,4 +1,3 @@
-```java
 package gamezonepro;
 import gamezonepro.estructuras.ListaSimple;
 
@@ -16,4 +15,4 @@ public class GameZonePro {
     }
 
 }
-```
+
